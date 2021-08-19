@@ -11,3 +11,4 @@ As stated above, the main purpose is to provide simple examples for Git training
 asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdsaasdasd
 ##How to Contribute
 
+2014 Git.Training.
